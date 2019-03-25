@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 //import logo from './logo.svg';
 import './App.css';
 import Peer from 'simple-peer';
-import wrtc from 'wrtc';
+//import wrtc from 'wrtc';
 
 
 let messages = []
