@@ -3,11 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "midi-sounds-react": "^1.2.54",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-scripts": "2.1.8",
+    "scribbletune": "^2.0.0",
     "simple-peer": "^9.2.1",
-    "wrtc": "^0.3.6"
+    "wrtc": "^0.3.6",
+    "ws": "^6.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
